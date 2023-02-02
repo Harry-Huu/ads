@@ -1,0 +1,298 @@
+{
+  "TimeCreated": "20221202T111239",
+  "Name": "ads3",
+  "Events": [
+    {
+      "Timestamp": 3843,
+      "X": 6.75,
+      "Y": 12.72,
+      "Delta": 0,
+      "EventType": "MouseDown"
+    },
+    {
+      "Timestamp": 3922,
+      "X": 6.75,
+      "Y": 12.72,
+      "Delta": 0,
+      "EventType": "MouseUp"
+    },
+    {
+      "Timestamp": 6828,
+      "X": 49.64,
+      "Y": 86.26,
+      "Delta": 0,
+      "EventType": "MouseDown"
+    },
+    {
+      "Timestamp": 6907,
+      "X": 49.64,
+      "Y": 86.26,
+      "Delta": 0,
+      "EventType": "MouseUp"
+    },
+    {
+      "Timestamp": 9265,
+      "X": 92.34,
+      "Y": 70.56,
+      "Delta": 0,
+      "EventType": "MouseDown"
+    },
+    {
+      "Timestamp": 9337,
+      "X": 92.34,
+      "Y": 70.56,
+      "Delta": 0,
+      "EventType": "MouseUp"
+    },
+    {
+      "Timestamp": 11561,
+      "X": 69.89,
+      "Y": 71.79,
+      "Delta": 0,
+      "EventType": "MouseDown"
+    },
+    {
+      "Timestamp": 11614,
+      "X": 69.89,
+      "Y": 71.79,
+      "Delta": 0,
+      "EventType": "MouseUp"
+    },
+    {
+      "Timestamp": 46640,
+      "X": 7.4,
+      "Y": 4.17,
+      "Delta": 0,
+      "EventType": "MouseDown"
+    },
+    {
+      "Timestamp": 46728,
+      "X": 7.4,
+      "Y": 4.17,
+      "Delta": 0,
+      "EventType": "MouseUp"
+    },
+    {
+      "Timestamp": 47418,
+      "X": 7.4,
+      "Y": 4.17,
+      "Delta": 0,
+      "EventType": "MouseDown"
+    },
+    {
+      "Timestamp": 47522,
+      "X": 7.4,
+      "Y": 4.17,
+      "Delta": 0,
+      "EventType": "MouseUp"
+    },
+    {
+      "Timestamp": 48284,
+      "X": 7.4,
+      "Y": 4.17,
+      "Delta": 0,
+      "EventType": "MouseDown"
+    },
+    {
+      "Timestamp": 48356,
+      "X": 7.4,
+      "Y": 4.17,
+      "Delta": 0,
+      "EventType": "MouseUp"
+    },
+    {
+      "Timestamp": 49178,
+      "X": 7.4,
+      "Y": 4.17,
+      "Delta": 0,
+      "EventType": "MouseDown"
+    },
+    {
+      "Timestamp": 49266,
+      "X": 7.4,
+      "Y": 4.17,
+      "Delta": 0,
+      "EventType": "MouseUp"
+    },
+    {
+      "Timestamp": 51198,
+      "X": 91.72,
+      "Y": 3.67,
+      "Delta": 0,
+      "EventType": "MouseDown"
+    },
+    {
+      "Timestamp": 51286,
+      "X": 91.72,
+      "Y": 3.67,
+      "Delta": 0,
+      "EventType": "MouseUp"
+    },
+    {
+      "Timestamp": 52148,
+      "X": 91.72,
+      "Y": 3.67,
+      "Delta": 0,
+      "EventType": "MouseDown"
+    },
+    {
+      "Timestamp": 52268,
+      "X": 91.72,
+      "Y": 3.67,
+      "Delta": 0,
+      "EventType": "MouseUp"
+    },
+    {
+      "Timestamp": 53070,
+      "X": 91.72,
+      "Y": 3.67,
+      "Delta": 0,
+      "EventType": "MouseDown"
+    },
+    {
+      "Timestamp": 53143,
+      "X": 91.72,
+      "Y": 3.67,
+      "Delta": 0,
+      "EventType": "MouseUp"
+    },
+    {
+      "Timestamp": 54187,
+      "X": 91.72,
+      "Y": 3.67,
+      "Delta": 0,
+      "EventType": "MouseDown"
+    },
+    {
+      "Timestamp": 54257,
+      "X": 91.72,
+      "Y": 3.67,
+      "Delta": 0,
+      "EventType": "MouseUp"
+    },
+    {
+      "Timestamp": 56293,
+      "X": 5.03,
+      "Y": 3.33,
+      "Delta": 0,
+      "EventType": "MouseDown"
+    },
+    {
+      "Timestamp": 56396,
+      "X": 5.03,
+      "Y": 3.33,
+      "Delta": 0,
+      "EventType": "MouseUp"
+    },
+    {
+      "Timestamp": 57276,
+      "X": 5.03,
+      "Y": 3.33,
+      "Delta": 0,
+      "EventType": "MouseDown"
+    },
+    {
+      "Timestamp": 57354,
+      "X": 5.03,
+      "Y": 3.33,
+      "Delta": 0,
+      "EventType": "MouseUp"
+    },
+    {
+      "Timestamp": 58335,
+      "X": 5.03,
+      "Y": 3.33,
+      "Delta": 0,
+      "EventType": "MouseDown"
+    },
+    {
+      "Timestamp": 58422,
+      "X": 5.03,
+      "Y": 3.33,
+      "Delta": 0,
+      "EventType": "MouseUp"
+    },
+    {
+      "Timestamp": 59375,
+      "X": 5.33,
+      "Y": 4.5,
+      "Delta": 0,
+      "EventType": "MouseDown"
+    },
+    {
+      "Timestamp": 59447,
+      "X": 5.33,
+      "Y": 4.5,
+      "Delta": 0,
+      "EventType": "MouseUp"
+    },
+    {
+      "Timestamp": 60280,
+      "X": 5.33,
+      "Y": 5.0,
+      "Delta": 0,
+      "EventType": "MouseDown"
+    },
+    {
+      "Timestamp": 60353,
+      "X": 5.33,
+      "Y": 5.0,
+      "Delta": 0,
+      "EventType": "MouseUp"
+    },
+    {
+      "Timestamp": 61448,
+      "X": 5.33,
+      "Y": 5.0,
+      "Delta": 0,
+      "EventType": "MouseDown"
+    },
+    {
+      "Timestamp": 61536,
+      "X": 5.33,
+      "Y": 5.0,
+      "Delta": 0,
+      "EventType": "MouseUp"
+    },
+    {
+      "Timestamp": 62720,
+      "X": 5.33,
+      "Y": 5.0,
+      "Delta": 0,
+      "EventType": "MouseDown"
+    },
+    {
+      "Timestamp": 62833,
+      "X": 5.33,
+      "Y": 5.0,
+      "Delta": 0,
+      "EventType": "MouseUp"
+    },
+    {
+      "Timestamp": 65581,
+      "X": 4.73,
+      "Y": 3.33,
+      "Delta": 0,
+      "EventType": "MouseDown"
+    },
+    {
+      "Timestamp": 65642,
+      "X": 4.73,
+      "Y": 3.33,
+      "Delta": 0,
+      "EventType": "MouseUp"
+    }
+  ],
+  "LoopType": "TillLoopNumber",
+  "LoopNumber": 1,
+  "LoopTime": 0,
+  "LoopInterval": 0,
+  "Acceleration": 1.0,
+  "PlayOnStart": false,
+  "DonotShowWindowOnFinish": false,
+  "RestartPlayer": false,
+  "RestartPlayerAfterMinutes": 60,
+  "ShortCut": "",
+  "UserName": "",
+  "MacroId": ""
+}

@@ -1,0 +1,60 @@
+{
+  "TimeCreated": "20221202T105204",
+  "Name": "beastcruise",
+  "Events": [
+    {
+      "Timestamp": 2820,
+      "X": 2.96,
+      "Y": 6.0,
+      "Delta": 0,
+      "EventType": "MouseDown"
+    },
+    {
+      "Timestamp": 2908,
+      "X": 2.96,
+      "Y": 6.0,
+      "Delta": 0,
+      "EventType": "MouseUp"
+    },
+    {
+      "Timestamp": 5713,
+      "X": 93.79,
+      "Y": 32.33,
+      "Delta": 0,
+      "EventType": "MouseDown"
+    },
+    {
+      "Timestamp": 5784,
+      "X": 93.79,
+      "Y": 32.33,
+      "Delta": 0,
+      "EventType": "MouseUp"
+    },
+    {
+      "Timestamp": 8129,
+      "X": 5.03,
+      "Y": 2.83,
+      "Delta": 0,
+      "EventType": "MouseDown"
+    },
+    {
+      "Timestamp": 8208,
+      "X": 5.03,
+      "Y": 2.83,
+      "Delta": 0,
+      "EventType": "MouseUp"
+    }
+  ],
+  "LoopType": "TillLoopNumber",
+  "LoopNumber": 1,
+  "LoopTime": 0,
+  "LoopInterval": 0,
+  "Acceleration": 1.0,
+  "PlayOnStart": false,
+  "DonotShowWindowOnFinish": false,
+  "RestartPlayer": false,
+  "RestartPlayerAfterMinutes": 60,
+  "ShortCut": "",
+  "UserName": "",
+  "MacroId": ""
+}
